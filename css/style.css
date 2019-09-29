@@ -10,7 +10,7 @@ body, input, select, textarea {
   line-height: 1.75em; }
 
 body {
-  background: #fff;
+  background: #000;
   overflow: hidden; }
   body.loading * {
     -moz-animation: none !important;
